@@ -1,6 +1,6 @@
 +++
 date = '2025-08-29T10:36:08-04:00'
-draft = true
+draft = false
 title = 'My Second Post'
 +++
 the standard Lorem Ipsum passage, used since the 1500s
