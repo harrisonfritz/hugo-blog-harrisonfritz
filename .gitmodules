@@ -3,5 +3,5 @@
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
 [submodule "themes/dead-simple"]
 	path = themes/dead-simple
-	url = https://github.com/barklan/hugo-dead-simple.git
+	url = https://github.com/harrisonfritz/hugo-dead-simple.git
 	branch = main
