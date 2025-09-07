@@ -7,3 +7,4 @@ title = 'My First Post'
 
 Let's make sure this thing works 
 
+![dog-elly](/img/buratta-dog-elly.png)

@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Fri, 29 Aug 2025 10:32:24 -0400</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;first-post&#34;&gt;First Post&lt;/h1&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s make sure this thing works&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;first-post&#34;&gt;First Post&lt;/h1&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s make sure this thing works&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../../static/img/buratta-dog-elly.png&#34; alt=&#34;dog-elly&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
