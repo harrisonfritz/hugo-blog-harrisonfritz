@@ -57,6 +57,10 @@
         <nav>
           <ul class="menu">
             
+                <li><a tabindex="-1" class="menu-link" href="/">Home</a></li>
+            
+                <li><a tabindex="-1" class="menu-link" href="/posts">posts</a></li>
+            
           </ul>
         </nav>
         
@@ -64,7 +68,6 @@
 
 <div class="home-content"></div>
 
-<a href="{{ .Site.BaseURL }}">Home</a>
 
     
     
@@ -92,6 +95,21 @@
       <span class="date">Sep 7, 2025</span>
       
       <a href="/posts/my-second-post/">My Second Post</a>
+      
+    </div>
+
+</li>
+
+
+
+  
+
+  <li>
+
+    <div style="display: grid; grid-template-columns: 7em auto">
+      <span class="date">Sep 7, 2025</span>
+      
+      <a href="/posts/my-third-post/">My Third Post</a>
       
     </div>
 
@@ -290,6 +308,13 @@ window.store = {
         "tags": [],
         "content": "", 
         "url": "http:\/\/localhost:1313\/posts\/my-second-post\/"
+    },
+    
+    "http:\/\/localhost:1313\/posts\/my-third-post\/": {
+        "title": "My Third Post",
+        "tags": [],
+        "content": "", 
+        "url": "http:\/\/localhost:1313\/posts\/my-third-post\/"
     },
     
     "http:\/\/localhost:1313\/posts\/": {

@@ -16,6 +16,13 @@
       <description></description>
     </item>
     <item>
+      <title>My Third Post</title>
+      <link>http://localhost:1313/posts/my-third-post/</link>
+      <pubDate>Sun, 07 Sep 2025 20:55:23 -0400</pubDate>
+      <guid>http://localhost:1313/posts/my-third-post/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Me, Friends, Dogs, etc.</title>
       <link>http://localhost:1313/pictures/pics/</link>
       <pubDate>Sun, 07 Sep 2025 20:51:12 -0400</pubDate>
