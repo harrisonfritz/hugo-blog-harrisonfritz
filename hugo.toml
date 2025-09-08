@@ -1,4 +1,5 @@
 baseURL = 'https://harrisonfritz.com/'
 languageCode = 'en-us'
 title = 'Harrison Fritz'
-theme = 'ananke'
+theme = 'dead-simple'
+#theme = 'ananke'
