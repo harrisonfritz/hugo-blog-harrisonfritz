@@ -6,8 +6,43 @@
     <description>Recent content on Harrison Fritz</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Sep 2025 15:13:41 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 15:20:01 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn Your Tools</title>
+      <link>http://localhost:1313/posts/learn-your-tools/</link>
+      <pubDate>Wed, 10 Sep 2025 15:20:01 -0400</pubDate>
+      <guid>http://localhost:1313/posts/learn-your-tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Understanding Prometheus</title>
+      <link>http://localhost:1313/posts/understanding-prometheus/</link>
+      <pubDate>Wed, 10 Sep 2025 15:19:51 -0400</pubDate>
+      <guid>http://localhost:1313/posts/understanding-prometheus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Understanding Json Parsing in Go</title>
+      <link>http://localhost:1313/posts/understanding-json-parsing-in-go/</link>
+      <pubDate>Wed, 10 Sep 2025 15:19:33 -0400</pubDate>
+      <guid>http://localhost:1313/posts/understanding-json-parsing-in-go/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Understanding Opentelemetry</title>
+      <link>http://localhost:1313/posts/understanding-opentelemetry/</link>
+      <pubDate>Wed, 10 Sep 2025 15:19:21 -0400</pubDate>
+      <guid>http://localhost:1313/posts/understanding-opentelemetry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Understanding Etcd</title>
+      <link>http://localhost:1313/posts/understanding-etcd/</link>
+      <pubDate>Wed, 10 Sep 2025 15:19:11 -0400</pubDate>
+      <guid>http://localhost:1313/posts/understanding-etcd/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Your Hot Takes Are Not Hot Takes</title>
       <link>http://localhost:1313/posts/hot-takes/</link>
