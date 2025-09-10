@@ -8,12 +8,6 @@ menu:
     - name: "Home"
       url: /
       weight: 1
-    - name: "posts"
-      url: /writing
-      weight: 2
-    - name: "reading"
-      url: /reading
-      weight: 3
     #    - name: "Resume"
     #      url: /
     #      weight: 3
