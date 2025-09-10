@@ -16,7 +16,7 @@ I read a widely recommended book on love and dating - the fact that I'm hesitant
 Sometimes you learn more from books and advice you disagree with rather than that which you agree with. If you're not reading anything you disagree with than that means one of the following is true:
 
 - ### you aren't reading anything
-I met a guy in Tompkins Square Park who had one of the greatest hot takes I've ever heard: **No one has ever learned anything from reading**. I don't think this is true, but it's funny and I appreciate hot takes. (See my post on my annoyance with [fake hot takes]())
+I met a guy in Tompkins Square Park who had one of the greatest hot takes I've ever heard: *No one has ever learned anything from reading*. I don't think this is true, but it's funny and I appreciate hot takes. (See my post on my annoyance with [fake hot takes]())
 
 - ### have no opinions or are super easily convinced by arguments
 This is okay, but a friend once told me *"you should always have an opinion - but be willing to adjust it."* This idea is summed up in a phrase I think coined by a podcast/VC guy (Marc Andressen): *"strong opinions, loosely held"*. t makes it easier to start from something and then challenge your existing beliefes - kind of like the scientific method: make a hypothesis and test it.
