@@ -14,6 +14,9 @@ menu:
     #    - name: "RSS"
     #      url: /
     #      weight: 3
+params:
+  favicon: "favicon.ico"
 enableEmoji: true
 enableGitInfo: true
+
 
