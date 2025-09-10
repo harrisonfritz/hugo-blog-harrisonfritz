@@ -5,6 +5,12 @@ title = 'Stuff I Read'
 +++
 This is a non-exhaustive list of things(books, essays, posts, blogs, etc.) that I have read, partially or fully. 
 
+# stuff currently I'm reading
+
+## [The Sense of Style](https://www.goodreads.com/book/show/20821371-the-sense-of-style) by Steven Pinker
+
+## [Real-World Cryptography](https://www.amazon.com/Real-World-Cryptography-David-Wong/dp/1617296716) by David Wong
+
 # stuff I've read
 
 ## [James](https://www.goodreads.com/book/show/173754979-james) by Percival Everett
@@ -21,3 +27,13 @@ This is a non-exhaustive list of things(books, essays, posts, blogs, etc.) that 
 - > I had to ask myself and answer honestly, How much do I want to be free?
 - > She was mere surface all the way to her core
 
+
+---
+## template
+
+## [title](goodreads-link) by Author
+### rating: 9/10
+### Thoughts
+- 
+### Excerpts
+- >

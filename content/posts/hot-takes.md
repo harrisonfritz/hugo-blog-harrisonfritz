@@ -16,7 +16,7 @@ title = 'YOUR HOT TAKES ARE NOT HOT TAKES!!!!!'
 If you answer yes to all of the following questions, you may actually have a hot take
 1. Are you scared to share this opinion with other people, especially at work on first dates?
 2. Does your opinion take a clear stance on something and avoid nuance, avoiding caveats and baked-in apologies?
-3. Do people yell at you in disbelief and outrage when you share this opinion or say _"wow..."_ followed by awkward silence"
+3. Do people yell at you in disbelief and outrage when you share this opinion or say _"wow..."_ followed by awkward silence?
 4. Do you lay awake at night regretting what you said?
 
 If you answer yes to most of these, then you may actually have a hot take.
