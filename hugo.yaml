@@ -15,4 +15,5 @@ menu:
     #      url: /
     #      weight: 3
 enableEmoji: true
-enableGitInfo: false
+enableGitInfo: true
+

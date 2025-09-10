@@ -3,55 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-09-10T15:23:25-04:00</lastmod>
+    <lastmod>2025-09-10T15:23:32-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-09-10T15:23:25-04:00</lastmod>
+    <lastmod>2025-09-10T15:23:32-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/software-testing/</loc>
-    <lastmod>2025-09-10T15:23:25-04:00</lastmod>
+    <lastmod>2025-09-10T15:23:32-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/learn-your-tools/</loc>
-    <lastmod>2025-09-10T15:20:01-04:00</lastmod>
+    <lastmod>2025-09-10T15:20:13-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/understanding-prometheus/</loc>
-    <lastmod>2025-09-10T15:19:51-04:00</lastmod>
+    <lastmod>2025-09-10T15:20:13-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/understanding-json-parsing-in-go/</loc>
-    <lastmod>2025-09-10T15:19:33-04:00</lastmod>
+    <lastmod>2025-09-10T15:20:13-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/understanding-opentelemetry/</loc>
-    <lastmod>2025-09-10T15:19:21-04:00</lastmod>
+    <lastmod>2025-09-10T15:20:13-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/understanding-etcd/</loc>
-    <lastmod>2025-09-10T15:19:11-04:00</lastmod>
+    <lastmod>2025-09-10T15:20:13-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/hot-takes/</loc>
-    <lastmod>2025-09-10T15:13:41-04:00</lastmod>
+    <lastmod>2025-09-10T15:18:15-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/funny-terms/funny-terminology/</loc>
-    <lastmod>2025-09-10T15:10:53-04:00</lastmod>
+    <lastmod>2025-09-10T15:12:00-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/funny-terms/</loc>
-    <lastmod>2025-09-10T15:10:53-04:00</lastmod>
+    <lastmod>2025-09-10T15:12:00-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/my-thoughts-on-selfhelp-books/</loc>
-    <lastmod>2025-09-10T14:44:52-04:00</lastmod>
+    <lastmod>2025-09-10T15:12:00-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pictures/pics/</loc>
-    <lastmod>2025-09-07T20:51:12-04:00</lastmod>
+    <lastmod>2025-09-07T21:24:11-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pictures/</loc>
-    <lastmod>2025-09-07T20:51:12-04:00</lastmod>
+    <lastmod>2025-09-07T21:24:11-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/reading/</loc>
-    <lastmod>2025-09-07T20:51:12-04:00</lastmod>
+    <lastmod>2025-09-10T15:07:47-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/reading/stuff-i-read/</loc>
-    <lastmod>2025-09-07T20:51:12-04:00</lastmod>
+    <lastmod>2025-09-10T15:07:47-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/my-first-post/</loc>
-    <lastmod>2025-08-29T10:32:24-04:00</lastmod>
+    <lastmod>2025-09-07T15:11:11-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>

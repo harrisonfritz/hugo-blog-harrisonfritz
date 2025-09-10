@@ -6,8 +6,15 @@
     <description>Recent content on Harrison Fritz</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Sep 2025 15:20:01 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 15:23:32 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Testing</title>
+      <link>http://localhost:1313/posts/software-testing/</link>
+      <pubDate>Wed, 10 Sep 2025 15:23:25 -0400</pubDate>
+      <guid>http://localhost:1313/posts/software-testing/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Learn Your Tools</title>
       <link>http://localhost:1313/posts/learn-your-tools/</link>
