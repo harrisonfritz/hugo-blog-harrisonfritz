@@ -11,7 +11,6 @@ This is a non-exhaustive list of things(books, essays, posts, blogs, etc.) that 
 
 ## [Real-World Cryptography](https://www.amazon.com/Real-World-Cryptography-David-Wong/dp/1617296716) by David Wong
 
----
 
 # Finished
 
