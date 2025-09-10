@@ -17,7 +17,13 @@
     <loc>http://localhost:1313/pictures/pics/</loc>
     <lastmod>2025-09-07T20:51:12-04:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/reading/stuff-i-read/</loc>
+    <lastmod>2025-09-07T20:51:12-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/pictures/</loc>
+    <lastmod>2025-09-07T20:51:12-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/reading/</loc>
     <lastmod>2025-09-07T20:51:12-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/my-first-post/</loc>

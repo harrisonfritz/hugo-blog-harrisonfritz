@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Readings on Harrison Fritz</title>
+    <link>http://localhost:1313/reading/</link>
+    <description>Recent content in Readings on Harrison Fritz</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Sep 2025 20:51:12 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/reading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Me, Friends, Dogs, etc.</title>
+      <link>http://localhost:1313/reading/books/</link>
+      <pubDate>Sun, 07 Sep 2025 20:51:12 -0400</pubDate>
+      <guid>http://localhost:1313/reading/books/</guid>
+      <description>&lt;h2 id=&#34;this-is-me-with-a-dog-named-elly&#34;&gt;this is me with a dog named Elly&lt;/h2&gt;&#xA;&lt;p&gt;&lt;p class=&#34;imgp&#34;&gt;&#xA;  &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/buratta-dog-elly.png&#34; alt=&#34;dog-elly&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;/p&gt;&#xA;&lt;h2 id=&#34;another-dog---this-is-molly&#34;&gt;another dog - this is Molly&lt;/h2&gt;&#xA;&lt;p&gt;&lt;p class=&#34;imgp&#34;&gt;&#xA;  &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/img/molly-sleeping.png&#34; alt=&#34;dog-molly&#34;  /&gt;&#xA;&lt;/p&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
