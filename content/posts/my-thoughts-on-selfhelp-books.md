@@ -5,6 +5,7 @@ title = 'My Thoughts on Self-Help Books'
 +++
 
 ## If you're interested in something, read about it
+People are obsessed with what to read. I say read stuff you're interested in and like - you'll read more and remember more. Life is too short and there are too many books to read stuff that you don't enjoy, regardless of how highly recommended it is.
 
 ## If something's important, shouldn't you read at least a few books on it?
 Subjects like love, personal finance, mental health, organization, productivity, health, and habits are important, so maybe it makes sense to read a few books on those topics. Usually these books are easy/quick reads.
