@@ -5,13 +5,15 @@ title = 'Stuff I Read'
 +++
 This is a non-exhaustive list of things(books, essays, posts, blogs, etc.) that I have read, partially or fully. 
 
-# stuff currently I'm reading
+# In Progress
 
 ## [The Sense of Style](https://www.goodreads.com/book/show/20821371-the-sense-of-style) by Steven Pinker
 
 ## [Real-World Cryptography](https://www.amazon.com/Real-World-Cryptography-David-Wong/dp/1617296716) by David Wong
 
-# stuff I've read
+---
+
+# Finished
 
 ## [James](https://www.goodreads.com/book/show/173754979-james) by Percival Everett
 ### rating: 9/10
