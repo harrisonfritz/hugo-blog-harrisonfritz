@@ -1,7 +1,7 @@
 +++
 date = '2025-09-10T15:13:41-04:00'
 draft = false
-title = 'Your Hot Takes Are Not Hot Takes'
+title = 'YOUR HOT TAKES ARE NOT HOT TAKES!!!!!'
 +++
 
 ## "_Publish a list of your hot takes_," you say
