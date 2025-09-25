@@ -10,7 +10,7 @@ menu:
       weight: 1
     - name: "About Me"
       url: /about-me
-      weight: 2
+      weight: 0
     #    - name: "Resume"
     #      url: /
     #      weight: 3
@@ -21,5 +21,6 @@ params:
   favicon: "favicon.ico"
 enableEmoji: true
 enableGitInfo: true
+pluralizeListTitles: false
 
 
