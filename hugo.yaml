@@ -8,6 +8,9 @@ menu:
     - name: "Home"
       url: /
       weight: 1
+    - name: "About Me"
+      url: /about-me
+      weight: 2
     #    - name: "Resume"
     #      url: /
     #      weight: 3
