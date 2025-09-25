@@ -9,8 +9,11 @@ menu:
       url: /
       weight: 1
     - name: "About Me"
-      url: /about-me
-      weight: 0
+      url: /about-me/about-me
+      weight: 5
+      Params:
+        nodate: true
+
     #    - name: "Resume"
     #      url: /
     #      weight: 3
