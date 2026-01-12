@@ -3,7 +3,7 @@ date = '2026-01-12T12:14:35-05:00'
 draft = false
 title = 'Reflecting on 2025 and Plans for 2026'
 +++
-## 2025 in a words
+## 2025 in words
 - burrito
 - confusing
 - surprising
@@ -28,14 +28,10 @@ title = 'Reflecting on 2025 and Plans for 2026'
 - work on yourself first
 - it's better to have loved and lost, than never to have loved at all
 - Comfort is the enemy of progress
-# - Each betrayal begins with trust
 - I'm too drunk to taste this chicken
-# - The saddest thing about betrayal is that it never comes from your enemies, it comes from those you trust the most.
 - When it rains it pours
 - It’s always the ones you least expect
-# - People don’t change—they reveal who they really are.
 - Trust is like a vase...once it's broken, though it can be fixed the vase will never be the same
-# - showed their true colors
 
 ## 2025 in Media
 ### Music
