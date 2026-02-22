@@ -12,6 +12,7 @@ title = 'Reflecting on 2025 and Plans for 2026'
 - old
 - inflection-point (probably not hyphenated??)
 - friendship
+- time travel
 - loss
 - poise
 - sadness
